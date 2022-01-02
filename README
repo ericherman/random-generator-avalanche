@@ -1,0 +1,23 @@
+Random Sequence Generator based on Avalanche Noise
+
+
+Derivative Work:
+-------
+This derivative work is based on Giorgio Vazzana's work as published at
+* http://holdenc.altervista.org/avalanche/
+
+If that website is down, it can be found with the WaybackMachine, e.g.:
+* https://web.archive.org/web/20220102083609/http://holdenc.altervista.org/avalanche/
+
+For automation convenience, the Makefile will download:
+* holdenc.altervista.org/avalanche/downloads/random-generator-avalanche.net
+As indicated within, this file is the work of Giorgio Vazzana.
+
+
+Licence:
+--------
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+See COPYING or https://ohwr.org/cern_ohl_s_v2.txt
+
+Copyright (C) 2022 Eric Herman
+https://github.com/ericherman/random-generator-avalanche
